@@ -9,7 +9,7 @@ Identificar e parar o processo na porta
 
 lsof -i :8080
 
-kill -9 <process>
+kill -9 `número do processo`
 
 ## Para executar a aplicação via CLI
 
