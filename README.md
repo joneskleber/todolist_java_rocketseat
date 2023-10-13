@@ -24,6 +24,10 @@ mvn spring-boot:run
 
 [![](https://contrib.rocks/image?repo=joneskleber/joneskleber)](https://linkedin.com/in/joneskleber)
 
+## Deploy
+Deploy realizado com o [Docker](https://www.docker.com/) na <strong>cloud</strong> [Clever Cloud](https://www.clever-cloud.com/).
+
+
 ## License
 
-This project is under the Rocketseat School.
+This project is under the <strong>Rocketseat School</strong>.
